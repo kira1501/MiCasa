@@ -1,0 +1,8 @@
+The objective of this project is to create a standalone system which will monitor your home and allow you to access images, videos and information about your home from a remote location.
+
+features
+1] getting a live footage of your home form any part of the world.
+2] controlling your home features like doors, garage etc from a remote location.
+3] allowing guest to have temporary access to your home using remote login feature
+(temporary passcode which can be typed on the keypad)
+4]face recognition or fingerprint authentication of registered users.
